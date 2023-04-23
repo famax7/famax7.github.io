@@ -6,7 +6,7 @@ subtitle: Meixi Press.
 
 profile:
   align: right
-  image: 😊
+  image: grad.png
   image_circular: true # crops the image to make it circular
   address: >
     
