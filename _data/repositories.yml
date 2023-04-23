@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - famax7
+  - ychen884
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ychen884/GPTest
+  - ychen884/STICC-GCC
+  - ychen884/Timely-NS3
+  - ychen884/3DStreamingToolkit
+  - ychen884/Carla-YOLO4-tracking
+  - ychen884/Object-Detection-and-Tracking
