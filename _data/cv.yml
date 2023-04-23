@@ -13,7 +13,7 @@
   contents:
     - title: M.S. in Information Networking （信息网络理学硕士）
       institution: Carnegie Mellon University, Pittsburgh, PA （卡内基梅隆大学）
-      year: 2023年05月 ~ 2024年12月 (预期)
+      year: 2023.05 ~ 2024.12
       description:
 #        - Description 1.
 #        - Description 2.
@@ -23,7 +23,7 @@
 #            - Sub-description 2.
     - title: B.S. in Computer Science （计算机科学学士）
       institution: University of Wisconsin-Madison, Madison, WI （威斯康星大学麦迪逊分校）
-      year: 2019年09月 ~ 2023年05月
+      year: 2019.09 ~ 2023.05
       description:
         - 毕业论文：
         - 指导教师：<a href="https://pages.cs.wisc.edu/~mgliu/">Ming Liu （刘铭）</a>
