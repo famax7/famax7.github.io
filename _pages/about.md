@@ -2,7 +2,6 @@
 layout: about
 title: 我
 permalink: /
-nav: true
 subtitle: 诗人，哲♂学家，二次元研究员
 
 profile:
