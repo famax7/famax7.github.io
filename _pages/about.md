@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 我
 permalink: /
 subtitle: Meixi Press.
 
