@@ -6,7 +6,7 @@ subtitle: Meixi Press.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Van.jpg
   image_circular: true # crops the image to make it circular
   address: >
     
