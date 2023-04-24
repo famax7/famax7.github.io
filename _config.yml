@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: 有一只舟 # the website title (if blank, full name will be used instead)
 first_name: 陈艺舟
 middle_name:
 last_name: Yizhou Chen
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: 有一只舟 # blog_name will be displayed in your blog page
 blog_nav_title: 博客 # your blog must have a title for it to be displayed in the nav bar
-blog_description: 生活不止有趣，还有诗意
+blog_description: 这只舟从哪漂来，又要漂向哪去呢。。。
 permalink: /blog/:year/:title/
 
 # Pagination
