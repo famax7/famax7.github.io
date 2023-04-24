@@ -31,17 +31,13 @@
 - title: 经历
   type: time_table
   contents:
-    - title: Professor
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 教授
+      institution: University of Wisconsin-Madison, Madison, WI （威斯康星大学麦迪逊分校）
+      year: 2022.09 ~ 2022.12
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
+        - 教学：<a href="https://pages.cs.wisc.edu/~mgliu/CS640/F22/index.html">CS 640：计算机网络概论</a>
+        - 评分：4.9/5.0 <a href="https://www.ratemyprofessors.com/professor/2882264">(Rate My Professor)</a>
+    - title: 职业电子竞技选手
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
