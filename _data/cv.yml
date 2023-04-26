@@ -44,36 +44,29 @@
         - “我不认为我是一位演员，我更认为自己是一位表演艺术家。我相信我是通过我的艺术来表达自己，它涉及到我的身体，我的感觉和情感，以及我在这个行业中的经验。我的目标是通过我的表演来传达一些信息，激发人们的想象力，甚至让他们思考他们自己的欲望。”
         - 出演作品：<a href="https://www.youtube.com/watch?v=BGOK6mrm3AE">《漂移》</a>、<a href="https://www.bilibili.com/video/BV1eb411c7Di/?spm_id_from=333.999.0.0&vd_source=fe2d535bfd4a4812bf5a2f03094a650c">《不该》</a>、<a href="https://www.bilibili.com/video/BV1qJ411B7Wr/">《遇见》</a>等
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: 诗人
+      institution: 南京市力学小学
+      year: 2007.09 ~ 2013.06
+      description: 代表作：《实验》、《十字路口》、《动漫角色》等
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: 项目
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: 荣誉与奖项
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - 诺贝尔文学奖
+        - 茅盾文学奖
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - 奥斯卡金像奖最佳男主角
 
 - title: Academic Interests
   type: nested_list
