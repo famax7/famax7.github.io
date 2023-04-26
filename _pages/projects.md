@@ -5,7 +5,7 @@ permalink: /projects/
 description: 你想知道的都在这里
 nav: true
 nav_order: 2
-display_categories: [学校, fun]
+display_categories: [学校篇, fun]
 horizontal: false
 ---
 
