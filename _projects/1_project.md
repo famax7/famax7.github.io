@@ -4,7 +4,7 @@ title: 陈艺舟别睡了
 description: 陈艺舟和地理课的爱恨情仇
 img: assets/img/dontsleep.gif
 importance: 1
-category: 学校
+category: 学校篇
 ---
 
 Every project has a beautiful feature showcase page.
