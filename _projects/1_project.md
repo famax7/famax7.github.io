@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 陈艺舟别睡了
+description: 陈艺舟和地理课的爱恨情仇
+img: assets/img/dontsleep.gif
 importance: 1
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 梗
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 你想知道的都在这里
 nav: true
 nav_order: 2
 display_categories: [work, fun]
