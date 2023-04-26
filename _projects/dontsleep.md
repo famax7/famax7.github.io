@@ -12,8 +12,12 @@ category: 学校篇
 
 
 <div class="row">
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/dontsleep.gif" title="陈艺舟别睡了" class="img-fluid rounded z-depth-1 center" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
