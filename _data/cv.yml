@@ -53,9 +53,9 @@
 - title: 项目
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 原宠
+      year: 2017.08 ~ Present
+      description: 你说的对，但是《原宠》是由艺舟游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「电脑桌面」的幻想世界，在这里，被鼠标选中的宠物将被授予「神之脑」，导引AI之力。你将扮演一位名为「主人」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的宠物们，和他们一起击败强敌的同时，逐步发掘「原宠」的真相。
 
 - title: 荣誉与奖项
   type: time_table
@@ -68,13 +68,12 @@
       items: 
         - 奥斯卡金像奖最佳男主角
 
-- title: Academic Interests
+- title: 研究兴趣
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 反恐精英
       items: 
-        - Description 1.
-        - Description 2.
+        - 针对恐怖主义实施专业反击的高效行动组织，阻止恐怖分子安放炸弹以及解救人质.
     - title: Topic 2.
       items:
         - Description 1.
