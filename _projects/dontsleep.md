@@ -2,7 +2,7 @@
 layout: page
 title: 陈艺舟别睡了
 description: 
-img: assets/img/dontsleep.gif
+img:
 importance: 1
 category: 学校篇
 ---
