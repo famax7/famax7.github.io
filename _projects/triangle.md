@@ -3,7 +3,7 @@ layout: page
 title: 三角恋
 description:
 img:
-importance: 1
+importance: 7
 category: 学校篇
 ---
 
