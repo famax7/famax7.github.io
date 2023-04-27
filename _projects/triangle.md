@@ -4,7 +4,7 @@ title: 三角恋
 description:
 img:
 importance: 1
-category: 感情篇
+category: 学校篇
 ---
 
 曾经陈艺舟和王禄稔是一对亲密无间的神仙眷侣，直到毕业后的那次日本之旅。
