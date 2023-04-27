@@ -3,7 +3,7 @@ layout: page
 title: 军训帽子
 description:
 img:
-importance: 3
+importance: 6
 category: 学校篇
 ---
 
